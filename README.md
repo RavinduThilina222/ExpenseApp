@@ -13,9 +13,11 @@ A comprehensive React Native expense tracking application with filtering, charts
 
 ## Screenshots
 
-![app5](https://github.com/user-attachments/assets/be00ccbd-2523-4e40-9fbc-1650d1c4e9a9)
+**Expense Tracker App User Interfaces.**
+    ### 1. Home Screen
 
-Expense Tracker App User Interfaces.
+        ![WhatsApp Image 2025-07-08 at 11 16 46_f1347569](https://github.com/user-attachments/assets/a844c6ed-3e77-41ff-81d9-955e92b57ebc).
+
 
 ## Prerequisites
 
