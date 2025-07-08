@@ -11,13 +11,6 @@ A comprehensive React Native expense tracking application with filtering, charts
 - 📱 Beautiful blue-themed UI
 - 💾 Local storage with AsyncStorage
 
-## Screenshots
-
-**Expense Tracker App User Interfaces.**
-    ### 1. Home Screen
-
-        ![WhatsApp Image 2025-07-08 at 11 16 46_f1347569](https://github.com/user-attachments/assets/a844c6ed-3e77-41ff-81d9-955e92b57ebc).
-
 
 ## Prerequisites
 
